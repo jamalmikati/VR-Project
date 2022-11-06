@@ -1,0 +1,11 @@
+Model Information:
+* title:	Marble TV Stand
+* source:	https://sketchfab.com/3d-models/marble-tv-stand-a9ac1b4da53544af9dfbe76c519fbcd1
+* author:	Vilad (https://sketchfab.com/Vilad)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Marble TV Stand" (https://sketchfab.com/3d-models/marble-tv-stand-a9ac1b4da53544af9dfbe76c519fbcd1) by Vilad (https://sketchfab.com/Vilad) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
