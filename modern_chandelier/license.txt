@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chandelier 3D model Nopa type 1 by Autoban
+* source:	https://sketchfab.com/3d-models/chandelier-3d-model-nopa-type-1-by-autoban-3d972e7eeade4488a8c9b6bfef194b35
+* author:	gmax3d (https://sketchfab.com/gmax3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chandelier 3D model Nopa type 1 by Autoban" (https://sketchfab.com/3d-models/chandelier-3d-model-nopa-type-1-by-autoban-3d972e7eeade4488a8c9b6bfef194b35) by gmax3d (https://sketchfab.com/gmax3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
