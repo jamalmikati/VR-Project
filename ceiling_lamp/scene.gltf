@@ -1,0 +1,387 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -36.99999237060547,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 35508,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9882233142852783,
+        0.9758739471435547
+      ],
+      "min": [
+        0.00971028208732605,
+        0.017106592655181885
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 23672,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 47344,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9882233142852783,
+        0.9758739471435547
+      ],
+      "min": [
+        0.00971028208732605,
+        0.017106592655181885
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71016,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9882233142852783,
+        0.9758739471435547
+      ],
+      "min": [
+        0.00971028208732605,
+        0.017106592655181885
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 94688,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9882233142852783,
+        0.9758739471435547
+      ],
+      "min": [
+        0.00971028208732605,
+        0.017106592655181885
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 118360,
+      "componentType": 5126,
+      "count": 2959,
+      "max": [
+        0.9882233142852783,
+        0.9758739471435547
+      ],
+      "min": [
+        0.00971028208732605,
+        0.017106592655181885
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 14796,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "PettraPan (https://sketchfab.com/PettraPan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ceiling-lamp-01-696203f5f91e4632a096b671aba7cf6d",
+      "title": "Ceiling Lamp 01"
+    },
+    "generator": "Sketchfab-14.8.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 59184,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 142032,
+      "byteOffset": 59184,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 71016,
+      "byteOffset": 201216,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 47344,
+      "byteOffset": 272232,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 319576,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "images": [
+    {
+      "uri": "textures/CeilingLamp_baseColor.png"
+    },
+    {
+      "uri": "textures/CeilingLamp_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/CeilingLamp_emissive.png"
+    },
+    {
+      "uri": "textures/CeilingLamp_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "CeilingLamp",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6,
+            "TEXCOORD_4": 7,
+            "TEXCOORD_5": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        2.970104932785034,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        6.594957763861396e-16,
+        -2.970104932785034,
+        0.0,
+        0.0,
+        2.970104932785034,
+        6.594957763861396e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.021147383376955986,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.007499999832361937,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.0,
+        0.0,
+        0.2574999928474426,
+        0.0,
+        1.0
+      ],
+      "name": "CeilingLamp01_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
