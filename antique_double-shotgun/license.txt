@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique Double-Shotgun
+* source:	https://sketchfab.com/3d-models/antique-double-shotgun-f6b80bb54c5541fe91b807b3b050d366
+* author:	h1ggs (https://sketchfab.com/h1ggs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique Double-Shotgun" (https://sketchfab.com/3d-models/antique-double-shotgun-f6b80bb54c5541fe91b807b3b050d366) by h1ggs (https://sketchfab.com/h1ggs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
