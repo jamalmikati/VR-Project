@@ -1,0 +1,11 @@
+Model Information:
+* title:	Antique 1930s Clock
+* source:	https://sketchfab.com/3d-models/antique-1930s-clock-7ea0929918f44c3f89c093b15b91a587
+* author:	Fishboe (https://sketchfab.com/ministephen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Antique 1930s Clock" (https://sketchfab.com/3d-models/antique-1930s-clock-7ea0929918f44c3f89c093b15b91a587) by Fishboe (https://sketchfab.com/ministephen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
