@@ -1,0 +1,554 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7819,
+      "max": [
+        0.14936518669128418,
+        0.1548013687133789,
+        0.12505823373794556
+      ],
+      "min": [
+        -0.12505824863910675,
+        -0.25789034366607666,
+        -0.12505829334259033
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 93828,
+      "componentType": 5126,
+      "count": 7819,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 7819,
+      "max": [
+        0.9999999403953552,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9998042583465576,
+        -0.9999370574951172,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7819,
+      "max": [
+        0.9926488399505615,
+        0.9890280365943909
+      ],
+      "min": [
+        0.006225883960723877,
+        0.014714360237121582
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 33492,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        100.0,
+        0.39874911308288574,
+        7.765050824559694e-09,
+        0.0,
+        4.1392112848370743e-08,
+        100.0,
+        0.0,
+        0.0,
+        8.467331724659743e-09,
+        4.038967732698671e-32,
+        100.0,
+        0.0,
+        3.224030598047989e-09,
+        0.257889986038208,
+        0.0,
+        1.0
+      ],
+      "min": [
+        0.9170600771903992,
+        -4.1392112848370743e-08,
+        -8.467331724659743e-09,
+        0.0,
+        -0.39874914288520813,
+        0.9170600175857544,
+        -3.3763407625286845e-09,
+        0.0,
+        -8.467331724659743e-09,
+        -2.220445916901415e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0181411464868555e-16,
+        -2.7298937175913915e-17,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 7819,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 125104,
+      "componentType": 5126,
+      "count": 7819,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        4.0
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 121,
+      "max": [
+        0.20364181697368622,
+        0.9790454506874084,
+        0.09917619824409485,
+        0.9790454506874084
+      ],
+      "min": [
+        -0.17492011189460754,
+        -0.840960681438446,
+        -0.20364181697368622,
+        -0.4768082797527313
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 11,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Antique Globe Steady Spin",
+      "samplers": [
+        {
+          "input": 8,
+          "interpolation": "LINEAR",
+          "output": 9
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Smoggybeard (https://sketchfab.com/Smoggybeard)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/antique-globe-0269763acb7a4ab880a09bef35217e79",
+      "title": "Antique Globe"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 62552,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 133968,
+      "byteOffset": 62552,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62552,
+      "byteOffset": 196520,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 187656,
+      "byteOffset": 259072,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 250208,
+      "byteOffset": 446728,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 696936,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 484,
+      "byteOffset": 697192,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1936,
+      "byteOffset": 697676,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 699612,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Antique_Globe_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Antique_Globe_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Antique_Globe_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Antique_Globe",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Antique Globe_Antique Globe_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 6,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "WEIGHTS_0": 7
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "bbe34a31b5624955935d33aa9faf55dc.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "name": "Antique Globe",
+      "rotation": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ],
+      "scale": [
+        100.0,
+        100.0,
+        100.0
+      ],
+      "translation": [
+        0.0,
+        -14.593278884887695,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "Antique Globe Bones",
+      "rotation": [
+        -0.7071068286895752,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ],
+      "scale": [
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "children": [
+        7,
+        9,
+        8
+      ],
+      "name": "Object_6"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "matrix": [
+        100.00000000000018,
+        -2.9842794727176457e-13,
+        2.842170943040401e-14,
+        0.0,
+        2.842170943040398e-14,
+        6.123233995736682e-15,
+        -100.00000000000001,
+        0.0,
+        2.984279472717645e-13,
+        100.00000000000017,
+        6.123233995736776e-15,
+        0.0,
+        -2.3226443012815123e-14,
+        -14.593279898166669,
+        -5.984698179951255e-22,
+        1.0
+      ],
+      "name": "Object_8"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_9",
+      "skin": 0
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "Globe All_00",
+      "rotation": [
+        0.7071068286895752,
+        -1.7627977300094244e-08,
+        1.1640671537804792e-08,
+        0.7071067094802856
+      ],
+      "translation": [
+        7.450580596923828e-09,
+        0.0,
+        -0.257889986038208
+      ]
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "Globe_01",
+      "rotation": [
+        4.50047729291972e-17,
+        8.289903874469928e-09,
+        -0.20364181697368622,
+        0.9790454506874084
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        3.2240308200925938e-09,
+        0.257889986038208,
+        -2.729893883027514e-17
+      ]
+    },
+    {
+      "name": "Globe_end_02",
+      "rotation": [
+        -4.0836173619670897e-25,
+        8.271806125530277e-25,
+        2.7755592159241165e-17,
+        1.0
+      ],
+      "translation": [
+        -3.18234848456325e-18,
+        0.18000000715255737,
+        0.0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 5,
+      "joints": [
+        7,
+        10,
+        11,
+        12
+      ],
+      "skeleton": 7
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
