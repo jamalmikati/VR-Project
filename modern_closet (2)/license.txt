@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Closet
+* source:	https://sketchfab.com/3d-models/modern-closet-27480ffc21cf423ba972ae00f217a524
+* author:	Jetstorm-3D (https://sketchfab.com/Jetstorm_477)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Closet" (https://sketchfab.com/3d-models/modern-closet-27480ffc21cf423ba972ae00f217a524) by Jetstorm-3D (https://sketchfab.com/Jetstorm_477) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
