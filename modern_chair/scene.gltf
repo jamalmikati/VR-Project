@@ -1,0 +1,451 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 6940,
+      "max": [
+        0.3812398314476013,
+        0.5897178053855896,
+        0.9997082352638245
+      ],
+      "min": [
+        -0.28515583276748657,
+        -0.013476739637553692,
+        -0.014169675298035145
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 83280,
+      "componentType": 5126,
+      "count": 6940,
+      "max": [
+        0.9999934434890747,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999934434890747,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 6940,
+      "max": [
+        0.9863775372505188,
+        0.9939078092575073
+      ],
+      "min": [
+        0.006092224735766649,
+        0.006092224735766649
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 34032,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 166560,
+      "componentType": 5126,
+      "count": 3663,
+      "max": [
+        0.272998183965683,
+        0.2916870713233948,
+        1.023090124130249
+      ],
+      "min": [
+        -0.4072723388671875,
+        -0.3114810883998871,
+        0.007206046488136053
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 210516,
+      "componentType": 5126,
+      "count": 3663,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 55520,
+      "componentType": 5126,
+      "count": 3663,
+      "max": [
+        11.378840446472168,
+        10.921554565429688
+      ],
+      "min": [
+        -10.378840446472168,
+        -9.961368560791016
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 136128,
+      "componentType": 5125,
+      "count": 18192,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 254472,
+      "componentType": 5126,
+      "count": 3032,
+      "max": [
+        0.35340720415115356,
+        0.2339978814125061,
+        0.5631105899810791
+      ],
+      "min": [
+        -0.3474525213241577,
+        -0.2346307784318924,
+        -0.06359556317329407
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 290856,
+      "componentType": 5126,
+      "count": 3032,
+      "max": [
+        0.999992847442627,
+        0.9997230768203735,
+        1.0
+      ],
+      "min": [
+        -0.9998561143875122,
+        -0.9999936819076538,
+        -0.9999887943267822
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 84824,
+      "componentType": 5126,
+      "count": 3032,
+      "max": [
+        3.3915820121765137,
+        3.330387830734253
+      ],
+      "min": [
+        -2.3915820121765137,
+        -2.348268747329712
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 208896,
+      "componentType": 5125,
+      "count": 15696,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "yanix (https://sketchfab.com/yanix)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/modern-chair-2f982d1d80b64da1a81d32498897d599",
+      "title": "Modern Chair"
+    },
+    "generator": "Sketchfab-12.63.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 271680,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 109080,
+      "byteOffset": 271680,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 327240,
+      "byteOffset": 380760,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 708000,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "modern_chair_chrome_mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.896181259534455,
+          0.896181259534455,
+          0.896181259534455,
+          1.0
+        ],
+        "metallicFactor": 0.9773246951,
+        "roughnessFactor": 0.0261051829
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "modern_chair_black_plastic_mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.00669564,
+          0.00669564,
+          0.00669564,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.3858612805
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "modern_chair_leather_mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.676367,
+          0.52332,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.39195884146341464
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "modern_chair_chrome_object_modern_chair_chrome_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "modern_chair_plastic_object_modern_chair_black_plastic_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "modern_chair_leather_object_modern_chair_leather_mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "modern_chair.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        7
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        -10.529520988464355,
+        2.338188886642456,
+        29.780582427978516,
+        1.0
+      ],
+      "name": "modern_chair_chrome_object"
+    },
+    {
+      "mesh": 0,
+      "name": "modern_chair_chrome_object_modern_chair_chrome_mat_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.646977960169688e-23,
+        0.0,
+        0.0,
+        2.646977960169688e-23,
+        1.0,
+        0.0,
+        0.10529521107673645,
+        0.2978058159351349,
+        -0.02338188886642456,
+        1.0
+      ],
+      "name": "modern_chair_plastic_object"
+    },
+    {
+      "mesh": 1,
+      "name": "modern_chair_plastic_object_modern_chair_black_plastic_mat_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.646977960169688e-23,
+        0.0,
+        0.0,
+        2.646977960169688e-23,
+        1.0,
+        0.0,
+        0.04247409105300903,
+        0.286594957113266,
+        0.45303046703338623,
+        1.0
+      ],
+      "name": "modern_chair_leather_object"
+    },
+    {
+      "mesh": 2,
+      "name": "modern_chair_leather_object_modern_chair_leather_mat_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
